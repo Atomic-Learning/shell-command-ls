@@ -14,7 +14,8 @@
     "prerequisites": [
         "cli-command-anatomy",
         "vs-code-terminal",
-        "programming-current-working-directory"
+        "programming-current-working-directory",
+        "programming-paths"
     ],
     "related": [
     ]
