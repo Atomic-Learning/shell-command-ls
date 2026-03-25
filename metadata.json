@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Shell Command: ls",
+    "slug": "shell-command-ls",
+    "description": "An introduction to the shell command ls which is used to view the contents of the current working directory.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "bash",
+        "zsh",
+        "powershell"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "cli-command-anatomy",
+        "vs-code-terminal",
+        "programming-current-working-directory"
     ],
     "related": [
-        "",
-        ""
     ]
 }
