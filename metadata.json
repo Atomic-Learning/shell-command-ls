@@ -8,7 +8,8 @@
     "tags": [
         "bash",
         "zsh",
-        "powershell"
+        "powershell",
+        "codespace"
     ],
     "duration": 3,
     "prerequisites": [
